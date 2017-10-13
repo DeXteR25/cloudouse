@@ -165,6 +165,8 @@ a:hover {
 .nav-collapse a:active,
 .nav-collapse .active a {
 color: #b2dfdb;
+letter-spacing: 4px;
+transition: ease-in 1s;
 }
 
 @media screen and (min-width: 767px) {
