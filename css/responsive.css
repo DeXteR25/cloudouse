@@ -4,7 +4,12 @@
 ================================================== */
 @media only screen and (min-width: 993px) and (max-width: 1200px) {
 	.oneslide img {
-    height: 700px;
+    height: 50%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;    
 }
 .slidecon h2 {
     font-size: 42px;
@@ -20,8 +25,12 @@
 
 @media only screen and (min-width: 960px) and (max-width: 992px) {
 	.oneslide img {
-    height: 700px;
-}
+    height: 50%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
 nav ul li {
     padding: 10px 20px;
 }
@@ -125,8 +134,12 @@ footer {
 	/* Tablet Portrait size to standard 960 (devices and browsers) */
 	@media only screen and (min-width: 768px) and (max-width: 959px) {
 		.oneslide img {
-    height: 600px;
-}
+    height: 50%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
 nav ul li {
     padding: 10px 20px;
 }
@@ -248,8 +261,12 @@ header.sticky {
     padding: 0px 0 0px;
 }
 .oneslide img {
-    height: 466px;
-}
+    height: 50%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
 .bx-wrapper .bx-prev {
     left: 2%;
 }
@@ -387,8 +404,12 @@ footer p{
 	line-height:40px;
 }
 .oneslide img {
-    height: 400px;
-}
+    height: 50%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
 .bx-wrapper .bx-controls-direction a {
     top: 61%;
 }

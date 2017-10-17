@@ -218,7 +218,9 @@ nav ul li a:hover {
 	padding: 0px 0 20px;
 }
 .slidecon h2 span {
-	font-weight: 700;
+	font-weight: 300;
+	background-color: rgba(0, 0, 0, 0.65);
+    padding: 10px 10px;
 }
 .slidecon a {
 	width: 180px;
