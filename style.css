@@ -124,7 +124,7 @@ nav ul li a {
 }
 nav ul li a:hover {
 	color: #b2dfdb;
-	transition: all 0.5s;
+	transition: all 0.3s;
 }
 #wrap {
 	display: inline-block;
@@ -730,7 +730,7 @@ ul.social-network li {
     letter-spacing: 2px;
     background: lightseagreen;
     float: left;
-    -webkit-transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
     border: 0px;
     color: #fff;
 }
